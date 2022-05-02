@@ -7,7 +7,7 @@
 
 - 📄 Know about my experiences [www.linkedin.com/in/mahmoud-majid](www.linkedin.com/in/mahmoud-majid)
 
-- ⚡ Fun fact **I love jokes and having fun with people**
+- ⚡ Fun fact **I love humor and having fun with people**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
