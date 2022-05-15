@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **mahmoudmajid007@gmail.com**
 
-- 📄 Know about my experiences [www.linkedin.com/in/mahmoud-majid](www.linkedin.com/in/mahmoud-majid)
+- 📄 Know about my experiences [https://www.linkedin.com/in/mahmoud-majid](www.linkedin.com/in/mahmoud-majid)
 
 - ⚡ Fun fact **I love humor and having fun with people**
 
