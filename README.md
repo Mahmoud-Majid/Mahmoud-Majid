@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mahmoud Majid</h1>
 <h3 align="center">A Full-Stack developer, interested in react and frontend technology.</h3>
 
-- 🌱 I’m currently learning **React, Redux, Toolkit, Next.js, Node.js, HTML5, CSS3, Tailwind css, Firebase, Material UI**
+- 🌱 I’m currently learning **React, Redux, Toolkit, Next.js, Node.js, HTML5, CSS3, Tailwind css, Material UI**
 
 - 📫 How to reach me **mahmoudmajid007@gmail.com**
 
