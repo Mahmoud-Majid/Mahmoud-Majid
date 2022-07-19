@@ -2,11 +2,14 @@
 <h3 align="center">A Full-Stack developer, interested in react and frontend technology.</h3>
 
 - 🌱 I have good knowledge about **React, Redux, Toolkit, React Native, HTML5, CSS3, FireBase, OOP, SOLID**
+
 - 🌱 Basic knowldege about **Next.js, Node.js, Docker, Git, TypeScript, Linux**
 
 - 📫 How to reach me **mahmoudmajid007@gmail.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/mahmoud-majid](www.linkedin.com/in/mahmoud-majid)
+
+- 📄 My CV [https://app.flowcv.com/resume-feedback/0CixMKxedzVbL5PBymiB-]
 
 - ⚡ Fun fact **I love humor and having fun with people**
 
