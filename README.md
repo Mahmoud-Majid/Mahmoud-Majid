@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Mahmoud Majid</h1>
 <h3 align="center">A Full-Stack developer, interested in react and frontend technology.</h3>
 
-- 🌱 I have good knowledge about **React, Redux, Toolkit, React Native, HTML5, CSS3, FireBase, OOP, SOLID**
+- 🌱 I have good knowledge about **React, Redux, Toolkit, React Native, HTML5, CSS3, FireBase, OOP, SOLID principles**
 
-- 🌱 Basic knowldege about **Next.js, Node.js, Docker, Git, TypeScript, Linux**
+- 🌱 Basic knowldege about **Next.js, Node.js, Git, TypeScript, Linux**
 
 - 📫 How to reach me **mahmoudmajid007@gmail.com**
 
